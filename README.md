@@ -1,6 +1,6 @@
 # Reactor-Neutronics-Simulation-Plotting
 
-A detailed README is attached in the repository labeled README.docx explaining how the code works and how to make changes to it.
+This repository runs a neutronics simulation with OpenMC using a makeshift simplified spherical reactor and plots the results of the simulation. A detailed README is attached in the repository labeled README.docx explaining how the code works and how to make changes to it.
 
 # Installation
 
