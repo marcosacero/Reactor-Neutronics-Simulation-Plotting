@@ -174,4 +174,3 @@ with open(output_filename, mode='w', encoding='utf-8') as f:
 
 
 The actual simulate_tokamak.py file may have additional parameters built in, namely pressure and temperature variables, for the user’s convenience. The plot_simulations_2d.py script generates the html files by opening the name of the json file, grabbing the desired observables, and plotting them.
-![image](https://github.com/user-attachments/assets/79e77d22-9be1-4ad6-b33c-83394da64953)
